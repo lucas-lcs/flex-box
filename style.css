@@ -2,8 +2,12 @@
   margin: 0;
 }
 
- .container {
+.container {
+  background-color: #d93c19;
+  padding: 16px;
+  height: 500px;
   display: flex;
+  flex-direction:row;
 }
 
 #bloco-1 {
