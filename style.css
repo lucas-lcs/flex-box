@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+}
+
+ .container {
+  display: flex;
+}
+
+#bloco-1 {
+background-color: aqua;
+height: 100px;
+width: 100px;
+border-radius: 16px;
+font-size: 40px;
+font-family: 'Courier New', Courier, monospace;
+}
+
+#bloco-2 {
+background-color: rgba(157, 196, 28, 0.866);
+height: 100px;
+width: 100px;
+border-radius: 16px;
+font-size: 40px;
+font-family: 'Courier New', Courier, monospace;
+}
+
+#bloco-3 {
+background-color:antiquewhite;
+height: 100px;
+width: 100px;
+border-radius: 16px;
+font-size: 40px;
+font-family: 'Courier New', Courier, monospace;
+}
